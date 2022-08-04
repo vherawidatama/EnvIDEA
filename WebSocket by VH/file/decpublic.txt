@@ -1,0 +1,4 @@
+Tester Fixed Program WebSocket IDEA on Debian 9.9.0 Compatible Fixed Error
+Problem Running. Bug on Pycrypto 2.0.1 to compare Pycrypto 2.6.1. 
+
+#Victory Herawidatama
